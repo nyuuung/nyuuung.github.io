@@ -1,0 +1,13 @@
+
+title: "늉이의 공부기록"
+email: kim.nyunyu@gmail.com
+description: "개발 공부 일기 근데 이제 깃허브 초보를 곁들인"
+baseurl: "" #필요시 서브 폴더 경로를 입력
+url: "https://nyuuung.github.io" # 깃허브 페이지 주소
+
+# Build settings
+theme: minima #기본테마설정
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
